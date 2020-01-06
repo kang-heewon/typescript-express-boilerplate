@@ -1,8 +1,8 @@
-# Typescript expres boilerplate
+# TypeScript + Express boilerplate
 
 - use typescript
 - [Test Driven Development](https://github.com/dwyl/learn-tdd)
-- git semantic commit message 사용
+- git semantic commit message 사용 권장
   > 윈도우: windows key + ;
   > mac : ctrl + command + space
 
