@@ -28,7 +28,7 @@
     "pluralize": "^8.0.0",
     "routing-controllers": "^0.8.0",
     "signale": "^1.4.0",
-    "typeorm": "^0.2.22"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "@types/body-parser": "^1.17.1",
